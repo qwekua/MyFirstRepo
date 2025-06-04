@@ -1,0 +1,8 @@
+# My Personal and Academic Goals for Next Year
+
+- Improve my full-stack development skills with more React and Node.js projects.
+- Contribute to at least 3 open-source projects on GitHub.
+- Build and launch a full-featured portfolio website.
+- Apply for internships or remote freelance roles in software engineering.
+- Complete advanced coursework in data structures and algorithms.
+- Learn DevOps basics: CI/CD, Docker, and GitHub Actions.
