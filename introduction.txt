@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+My name is Enock, a passionate software engineer based in Accra, Ghana. I specialize in full-stack development and enjoy building web-based applications that solve real-world problems. I’ve worked on projects involving CRM systems, music platforms, and voting systems, and I’m always looking to learn and grow as a developer.
+
+Outside of coding, I’m interested in mentorship and empowering communities through technology. I recently completed an internship with ALX Ventures, where I contributed to a CRM platform for a startup.
