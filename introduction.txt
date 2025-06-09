@@ -1,0 +1,6 @@
+# Brief Introduction About Myself
+
+My name is Enock. I am a software engineer based in Accra, Ghana,
+passionate about building full-stack web applications and using technology to solve real-world problems.
+I enjoy learning new technologies and working on projects that make a difference.
+I am currently building a voting system and exploring AI-powered solutions in various domains.
