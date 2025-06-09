@@ -1,3 +1,1 @@
-During this course, I have learned how to use Git and GitHub to manage code, 
-collaborate with others through branching and pull requests, 
-and sync changes between local and remote repositories.
+What I have learned from this course
